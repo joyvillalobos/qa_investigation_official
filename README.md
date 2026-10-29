@@ -2,6 +2,10 @@
 
 "Cada error documentado es una oportunidad para revisar mejor la próxima vez." 🔍
 
+## 🌐 Demo en línea
+
+👉 **[Abrir la aplicación en Render](https://qa-interactive-thingy.onrender.com/)**
+
 Aplicación web interactiva para analizar las evaluaciones de QA de un equipo de Amazon que revisa la documentación de productos (certificados de conformidad, reportes de pruebas, hojas de seguridad y más). Ese equipo verifica que cada producto cuente con los permisos y pruebas necesarios antes de venderse en la plataforma.
 
 El panel convierte cientos de registros de errores en información clara y accionable. Con él puedes responder preguntas como estas:
